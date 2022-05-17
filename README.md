@@ -26,13 +26,13 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 GitHub User's stars visitors Commits Badge
 
 🛠️ I'm Skilled At:
-C C++ CSS3 HTML5 JavaScript PHP Bootstrap jQuery JWT Laravel OpenGL MySQL
+
+LARAVEL, PHP, MySQL, HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, jQuery, C, C++, PYTHON
 
 📊 My Dev Stats:
+
 ![image](https://user-images.githubusercontent.com/25907767/168701426-37d3c3af-edab-40b0-9e0e-eb0031910746.png)
 
-Top Langs
 
-GitHub stats
 
 
