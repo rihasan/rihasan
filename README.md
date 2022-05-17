@@ -29,6 +29,8 @@ GitHub User's stars visitors Commits Badge
 C C++ CSS3 HTML5 JavaScript PHP Bootstrap jQuery JWT Laravel OpenGL MySQL
 
 📊 My Dev Stats:
+![image](https://user-images.githubusercontent.com/25907767/168701426-37d3c3af-edab-40b0-9e0e-eb0031910746.png)
+
 Top Langs
 
 GitHub stats
