@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <!-- Thanks 💙 For Being A Valuable Visitor of My Profile Among free hit counter -->
 
-Hi there, This is A.H.M Riazul Islam, A
-Welcome to my github profile. Thanks for your visit.
+This is A.H.M Riazul Islam, 
+Welcome to my github profile and thanks for your visit.
+I'm a full-stack web developer who loves to learn new topics related with developing regularly and try to implement learned things in my project. I'm a passionate self-taught full-stack developer who loves to work with backend portion. 
+
 <!-- a passionate self-taught full stack web developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. -->
 
 <!-- I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and knowledge sharing happened through open-source. -->
@@ -27,11 +29,11 @@ Welcome to my github profile. Thanks for your visit.
 
 <!-- GitHub User's stars visitors Commits Badge -->
 
-🛠️ I'm Skilled At:
+🛠️ I'm Skilled On Following:
 
 LARAVEL, PHP, MySQL, HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, jQuery, C, C++, PYTHON
 
-📊 My Dev Stats:
+<!-- 📊 My Dev Stats: -->
 
 <!-- ![image](https://user-images.githubusercontent.com/25907767/168701426-37d3c3af-edab-40b0-9e0e-eb0031910746.png) -->
 
