@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer | Backend-Focused Engineer  
 
-I design and build scalable web applications with a strong focus on backend architecture, clean code, and performance optimization.  
+I design and build scalable web applications with a strong focus on backend architecture, clean code and performance optimization.  
 
 Passionate about learning new technologies, improving system design skills, and turning real-world problems into efficient digital solutions.
 
