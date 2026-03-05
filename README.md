@@ -9,9 +9,10 @@ Passionate about learning new technologies, improving system design skills, and 
 ---
 
 ### 🚀 Tech Stack
-- Backend: Node.js | Express | Laravel | Django (update based on yours)
-- Frontend: React | Next.js | Vue (update accordingly)
+- Backend: PHP | Laravel | Python | Django 
+- Frontend: AngularJs | HTML5 | CSS3 | JavaScript | Bootstrap | jQuery | Vue 
 - Database: MySQL | PostgreSQL | MongoDB
+- Programming Languages: PHP | C | C++ | Python | JavaScript
 - Tools: Git | Docker | REST APIs | CI/CD
 
 ---
@@ -24,5 +25,6 @@ Passionate about learning new technologies, improving system design skills, and 
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: (your link)
-- Portfolio: (your link)
+- LinkedIn: https://www.linkedin.com/in/rihasan/
+- Portfolio: https://banglarsomoy.com/pp/
+- CV: https://banglarsomoy.com/pp/files/cv.pdf
