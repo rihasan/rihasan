@@ -1,42 +1,28 @@
-### Hi there 👋
+## 👋 Hi, I'm A.H.M Riazul Islam
 
-<!--
-**rihasan/rihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Backend-Focused Engineer  
 
-Here are some ideas to get you started:
+I design and build scalable web applications with a strong focus on backend architecture, clean code, and performance optimization.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about learning new technologies, improving system design skills, and turning real-world problems into efficient digital solutions.
 
-<!-- Thanks 💙 For Being A Valuable Visitor of My Profile Among free hit counter -->
+---
 
-This is A.H.M Riazul Islam, 
-Welcome to my github profile and thanks for your visit.
-I'm a full-stack web developer who loves to learn new topics related with developing regularly and try to implement learned things in my project. I'm a passionate self-taught full-stack developer who loves to work with backend portion. 
+### 🚀 Tech Stack
+- Backend: Node.js | Express | Laravel | Django (update based on yours)
+- Frontend: React | Next.js | Vue (update accordingly)
+- Database: MySQL | PostgreSQL | MongoDB
+- Tools: Git | Docker | REST APIs | CI/CD
 
-<!-- a passionate self-taught full stack web developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. -->
+---
 
-<!-- I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and knowledge sharing happened through open-source. -->
+### 🌱 Currently Exploring
+- Scalable system design
+- Cloud & DevOps practices
+- Performance optimization
 
-<!-- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🥰 -->
+---
 
-<!-- GitHub User's stars visitors Commits Badge -->
-
-🛠️ I'm Skilled On Following:
-
-LARAVEL, PHP, MySQL, HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, jQuery, C, C++, PYTHON
-
-<!-- 📊 My Dev Stats: -->
-
-<!-- ![image](https://user-images.githubusercontent.com/25907767/168701426-37d3c3af-edab-40b0-9e0e-eb0031910746.png) -->
-
-
-
-
+### 📫 Connect With Me
+- LinkedIn: (your link)
+- Portfolio: (your link)
